@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
@@ -52,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
