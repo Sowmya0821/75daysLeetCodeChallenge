@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0169-majority-element) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
