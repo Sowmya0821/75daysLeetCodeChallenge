@@ -16,16 +16,12 @@ class Solution {
             return 0;
         }
 
-        // Find left subtree height
         int left = height(node.left);
 
-        // Find right subtree height
         int right = height(node.right);
 
-        // Update diameter
         diameter = Math.max(diameter, left + right);
 
-        // Return height of current node
         return 1 + Math.max(left, right);
     }
 }
