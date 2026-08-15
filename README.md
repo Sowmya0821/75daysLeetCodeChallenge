@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0649-dota2-senate](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0649-dota2-senate) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0649-dota2-senate) |
 ## Math
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
