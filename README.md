@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 ## Sliding Window
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0155-min-stack) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
