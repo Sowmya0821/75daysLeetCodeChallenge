@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0649-dota2-senate](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0649-dota2-senate) |
 | [0709-to-lower-case](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0709-to-lower-case) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0392-is-subsequence](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
