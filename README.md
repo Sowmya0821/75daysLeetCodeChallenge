@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0649-dota2-senate](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0649-dota2-senate) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0649-dota2-senate) |
 ## Math
 |  |
