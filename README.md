@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sowmya0821/75daysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Tree
